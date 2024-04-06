@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigation Bar</title>
+    <style>
+
+ul{    
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    list-style-type: none;
+background-color: #333;
+}
+
+li {float: left; }
+.main{
+    border-radius: 10px;
+    border: solid salmon;
+    width: 100%;
+    background-color: black;
+}
+li, a {padding: 14px 16px; text-decoration: none;
+text-align: center; color: black;}
+
+
+
+a {border-radius: 25px;background-color: wheat;
+display: block;padding-left: 10px;}
+.rght{background-color: #ff5b5b; text-decoration: underline; }
+a:hover{scale: 1.3; transition: 1.1s;}
+.bg{background-image: url("logo.jpg");
+background-size: cover;
+background-repeat: no-repeat;
+width: 50px;
+height: 20px;
+}
+.rigth{float: right;}
+
+/*! responsive*/
+@media screen and (max-width: 625px) {
+    ul{
+        padding: 0; margin: 0; overflow: hidden; background-color: #333;
+        border: solid blue 2px; list-style-type: none; width: 140px;
+    background-color: #000; color: #ff5b5b;
+    
+    }
+    li a{display: block; color: #000; background-color: whitesmoke; padding: 14px 16px; text-decoration: none;}
+    li {text-align: center; border-bottom: 1px solid #555;}
+    li a {padding-right: 20px;}
+    .rigth{float: left;}
+
+
+}
+    </style>
+</head>
+<body>
+    <div class="main">
+        <header>
+            
+
+            <ul>
+                <li><a class="bg" href=""></a></li>
+                <li><a href="">Ana Sayfa</a></li>
+                <li><a href="">Ürünler</a></li>
+                <li><a href="">Hakkımız</a></li>
+                <li class="rigth"><a class="rght" href="">Politikalar</a></li>
+            </ul>
+        </header>
+    </div>
+    <footer>by emir</footer>
+</body>
+</html>
