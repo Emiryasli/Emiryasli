@@ -1,7 +1,7 @@
 ![MasterHead](https://i.pinimg.com/originals/8d/93/fc/8d93fc248c39fc25abbb13dd48056eb9.jpg)
 
 <h1 align="center">Hi 👋, I'm Emir</h1>
-<h3 align="center">I am a front end developer.</h3>
+<h3 align="center">I am a developer.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
