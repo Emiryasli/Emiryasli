@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/frontend-development-web-banner-concept-website-interface-improvement-illustration_277904-4428.jpg)
+![MasterHead](https://i.pinimg.com/originals/8d/93/fc/8d93fc248c39fc25abbb13dd48056eb9.jpg)
 
 <h1 align="center">Hi 👋, I'm Emir</h1>
 <h3 align="center">I am a front end developer.</h3>
